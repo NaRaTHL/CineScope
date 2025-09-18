@@ -1,10 +1,10 @@
 {
   "happy": [
-    { "title": "The Pursuit of Happyness", "img": "images/the-pursuit-of-happyness.jfif", "desc": "A struggling father does everything to give his son a better life." },
+    { "title": "The Pursuit of Happyness", "img": "images/the-pursuit-of-happiness.jpg", "desc": "A struggling father does everything to give his son a better life." },
     { "title": "La La Land", "img": "images/la-la-land.jfif", "desc": "A love story between a musician and an aspiring actress in Los Angeles." },
     { "title": "Inside Out", "img": "images/inside-out.jfif", "desc": "An imaginative look at emotions inside a young girl's mind." },
-    { "title": "Amélie", "img": "images/amelie.jfif", "desc": "A quirky Parisian girl sets out to improve the lives of those around her." },
-    { "title": "Forrest Gump", "img": "images/forrest-gump.jfif", "desc": "A heartwarming tale of an extraordinary man with a simple outlook on life." },
+    { "title": "Amélie", "img": "images/amelie.jpg", "desc": "A quirky Parisian girl sets out to improve the lives of those around her." },
+    { "title": "Forrest Gump", "img": "images/forrest-gump.jpg", "desc": "A heartwarming tale of an extraordinary man with a simple outlook on life." },
     { "title": "Zootopia", "img": "images/zootopia.jfif", "desc": "A bunny cop and a sly fox uncover a conspiracy in their city." },
     { "title": "Sing", "img": "images/sing.jfif", "desc": "Animals chase their dreams through a singing competition." }
   ],
@@ -28,27 +28,27 @@
   ],
   "action": [
     { "title": "John Wick", "img": "images/john-wick.jfif", "desc": "A retired hitman seeks vengeance against those who wronged him." },
-    { "title": "Mad Max: Fury Road", "img": "images/mad-max-fury-road.jfif", "desc": "In a post-apocalyptic wasteland, survival means speed and firepower." },
+    { "title": "Mad Max: Fury Road", "img": "images/madmax.jfif", "desc": "In a post-apocalyptic wasteland, survival means speed and firepower." },
     { "title": "Die Hard", "img": "images/die-hard.jfif", "desc": "A cop fights terrorists in a Los Angeles skyscraper." },
     { "title": "The Dark Knight", "img": "images/the-dark-knight.jfif", "desc": "Batman faces his deadliest foe yet: the Joker." },
-    { "title": "Avengers: Endgame", "img": "images/avengers-endgame.jfif", "desc": "The Avengers assemble for one last battle to save the universe." },
+    { "title": "Avengers: Endgame", "img": "images/endgame.jfif", "desc": "The Avengers assemble for one last battle to save the universe." },
     { "title": "Gladiator", "img": "images/gladiator.jfif", "desc": "A betrayed Roman general seeks revenge as a gladiator." },
-    { "title": "The Matrix", "img": "images/the-matrix.jfif", "desc": "A computer hacker learns about the true nature of reality." }
+    { "title": "The Matrix", "img": "images/matrix.jfif", "desc": "A computer hacker learns about the true nature of reality." }
   ],
   "adventure": [
     { "title": "Indiana Jones", "img": "images/indiana-jones.jfif", "desc": "The legendary archaeologist goes on dangerous quests for treasures." },
     { "title": "Jurassic Park", "img": "images/jurassic-park.jfif", "desc": "A dinosaur theme park spirals into chaos after a system failure." },
-    { "title": "The Revenant", "img": "images/the-revenant.jfif", "desc": "A frontiersman seeks revenge after being left for dead." },
-    { "title": "Jumanji: Welcome to the Jungle", "img": "images/jumanji-welcome-to-the-jungle.jfif", "desc": "Four teens are sucked into a magical video game adventure." },
-    { "title": "Pirates of the Caribbean", "img": "images/pirates-of-the-caribbean.jfif", "desc": "Captain Jack Sparrow sails into wild adventures." },
-    { "title": "The Hobbit", "img": "images/the-hobbit.jfif", "desc": "Bilbo Baggins embarks on an epic journey with dwarves." },
-    { "title": "The Lord of the Rings", "img": "images/the-lord-of-the-rings.jfif", "desc": "The Fellowship sets out to destroy the One Ring." }
+    { "title": "The Revenant", "img": "images/revenant.jfif", "desc": "A frontiersman seeks revenge after being left for dead." },
+    { "title": "Jumanji: Welcome to the Jungle", "img": "images/jumanji.jfif", "desc": "Four teens are sucked into a magical video game adventure." },
+    { "title": "Pirates of the Caribbean", "img": "images/pirates.jfif", "desc": "Captain Jack Sparrow sails into wild adventures." },
+    { "title": "The Hobbit", "img": "images/hobbit.jfif", "desc": "Bilbo Baggins embarks on an epic journey with dwarves." },
+    { "title": "The Lord of the Rings", "img": "images/lotr.jfif", "desc": "The Fellowship sets out to destroy the One Ring." }
   ],
   "romantic": [
-    { "title": "The Notebook", "img": "images/the-notebook.jfif", "desc": "A timeless love story spanning decades." },
+    { "title": "The Notebook", "img": "images/notebook.jfif", "desc": "A timeless love story spanning decades." },
     { "title": "Titanic", "img": "images/titanic.jfif", "desc": "Two lovers meet aboard the doomed Titanic voyage." },
     { "title": "Pride and Prejudice", "img": "images/pride-and-prejudice.jfif", "desc": "Elizabeth Bennet navigates love and society in 19th-century England." },
-    { "title": "Crazy Rich Asians", "img": "images/crazy-rich-asians.jfif", "desc": "A woman discovers her boyfriend is from one of Asia’s richest families." },
+    { "title": "Crazy Rich Asians", "img": "images/crazy-rich-asian.jfif", "desc": "A woman discovers her boyfriend is from one of Asia’s richest families." },
     { "title": "500 Days of Summer", "img": "images/500-days-of-summer.jfif", "desc": "A young man reflects on his failed relationship." },
     { "title": "Before Sunrise", "img": "images/before-sunrise.jfif", "desc": "Two strangers meet on a train and spend one magical night together." },
     { "title": "A Star is Born", "img": "images/a-star-is-born.jfif", "desc": "A seasoned musician falls for a rising singer." }
