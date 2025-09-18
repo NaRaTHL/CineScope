@@ -3,12 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Movie Recommendation</title>
+  <title>CineScope - Movie Recommendation</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>🎬 Movie Recommendation System</h1>
+  <!-- Header -->
+  <header>
+    <h1>CineScope</h1>
+    <p class="slogan">Find the perfect movie for your mood</p>
+  </header>
 
+  <!-- Mood Selection -->
   <div class="mood-selector">
     <label><input type="checkbox" value="happy"> Happy</label>
     <label><input type="checkbox" value="funny"> Funny</label>
@@ -16,15 +21,21 @@
     <label><input type="checkbox" value="action"> Action</label>
     <label><input type="checkbox" value="adventure"> Adventure</label>
     <label><input type="checkbox" value="romantic"> Romantic</label>
-    <label><input type="checkbox" value="sad"> Sad</label>
   </div>
 
   <button onclick="recommendMovies()">Get Recommendations</button>
 
+  <!-- Results -->
   <div class="results" id="results">
     <h2>Recommended Movies</h2>
     <div id="movieList"></div>
   </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>Made with Love by Nara | © 2025 CineScope</p>
+    <p><a href="https://github.com/NaRaTHL/CineScope" target="_blank">GitHub Repo</a></p>
+  </footer>
 
   <script src="script.js"></script>
 </body>

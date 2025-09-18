@@ -1,3 +1,20 @@
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin: 0;
+  color: #38bdf8;
+}
+
+.slogan {
+  font-size: 1.2rem;
+  color: #cbd5e1;
+  margin-top: 5px;
+}
+
 body {
   font-family: Arial, sans-serif;
   background: #0f172a;
@@ -96,4 +113,25 @@ button:hover {
   margin: 5px 0 0;
   font-size: 0.9rem;
   color: #cbd5e1;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  text-align: center;
+  background: #1e293b;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 900px;
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+footer a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
