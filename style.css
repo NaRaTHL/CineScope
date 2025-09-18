@@ -1,3 +1,19 @@
+.top-bar {
+      display: flex;
+      justify-content: space-between; /* pushes left & right apart */
+      align-items: center;
+      width: 100%; /* make it full width */
+      padding: 15px 10px;
+      font-weight: bold;
+      box-sizing: border-box; /* ensures padding doesn’t shrink width */
+}
+
+.top-bar .id,
+.top-bar .name {
+      color: yellow;
+      font-size: 1.2em;
+}
+
 header {
   text-align: center;
   margin-bottom: 30px;
