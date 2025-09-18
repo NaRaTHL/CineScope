@@ -1,56 +1,56 @@
 {
   "happy": [
-    { "title": "The Pursuit of Happyness", "img": "the-pursuit-of-happyness.jfif", "desc": "A struggling father does everything to give his son a better life." },
-    { "title": "La La Land", "img": "la-la-land.jfif", "desc": "A love story between a musician and an aspiring actress in Los Angeles." },
-    { "title": "Inside Out", "img": "inside-out.jfif", "desc": "An imaginative look at emotions inside a young girl's mind." },
-    { "title": "Amélie", "img": "amelie.jfif", "desc": "A quirky Parisian girl sets out to improve the lives of those around her." },
-    { "title": "Forrest Gump", "img": "forrest-gump.jfif", "desc": "A heartwarming tale of an extraordinary man with a simple outlook on life." },
-    { "title": "Zootopia", "img": "zootopia.jfif", "desc": "A bunny cop and a sly fox uncover a conspiracy in their city." },
-    { "title": "Sing", "img": "sing.jfif", "desc": "Animals chase their dreams through a singing competition." }
+    { "title": "The Pursuit of Happyness", "img": "images/the-pursuit-of-happyness.jfif", "desc": "A struggling father does everything to give his son a better life." },
+    { "title": "La La Land", "img": "images/la-la-land.jfif", "desc": "A love story between a musician and an aspiring actress in Los Angeles." },
+    { "title": "Inside Out", "img": "images/inside-out.jfif", "desc": "An imaginative look at emotions inside a young girl's mind." },
+    { "title": "Amélie", "img": "images/amelie.jfif", "desc": "A quirky Parisian girl sets out to improve the lives of those around her." },
+    { "title": "Forrest Gump", "img": "images/forrest-gump.jfif", "desc": "A heartwarming tale of an extraordinary man with a simple outlook on life." },
+    { "title": "Zootopia", "img": "images/zootopia.jfif", "desc": "A bunny cop and a sly fox uncover a conspiracy in their city." },
+    { "title": "Sing", "img": "images/sing.jfif", "desc": "Animals chase their dreams through a singing competition." }
   ],
   "funny": [
-    { "title": "The Hangover", "img": "the-hangover.jfif", "desc": "A wild bachelor party in Las Vegas goes terribly wrong." },
-    { "title": "Superbad", "img": "superbad.jfif", "desc": "Two high school friends go on a hilarious adventure before college." },
-    { "title": "Step Brothers", "img": "step-brothers.jfif", "desc": "Two immature adults are forced to live together when their parents marry." },
-    { "title": "Dumb and Dumber", "img": "dumb-and-dumber.jfif", "desc": "Two well-meaning but clueless friends set out on a road trip." },
-    { "title": "Anchorman", "img": "anchorman.jfif", "desc": "A comedy about a news anchor with a huge ego." },
-    { "title": "21 Jump Street", "img": "21-jump-street.jfif", "desc": "Two undercover cops infiltrate a high school drug ring." },
-    { "title": "Ted", "img": "ted.jfif", "desc": "A man’s childhood teddy bear comes to life in an outrageous way." }
+    { "title": "The Hangover", "img": "images/the-hangover.jfif", "desc": "A wild bachelor party in Las Vegas goes terribly wrong." },
+    { "title": "Superbad", "img": "images/superbad.jfif", "desc": "Two high school friends go on a hilarious adventure before college." },
+    { "title": "Step Brothers", "img": "images/step-brothers.jfif", "desc": "Two immature adults are forced to live together when their parents marry." },
+    { "title": "Dumb and Dumber", "img": "images/dumb-and-dumber.jfif", "desc": "Two well-meaning but clueless friends set out on a road trip." },
+    { "title": "Anchorman", "img": "images/anchorman.jfif", "desc": "A comedy about a news anchor with a huge ego." },
+    { "title": "21 Jump Street", "img": "images/21-jump-street.jfif", "desc": "Two undercover cops infiltrate a high school drug ring." },
+    { "title": "Ted", "img": "images/ted.jfif", "desc": "A man’s childhood teddy bear comes to life in an outrageous way." }
   ],
   "horror": [
-    { "title": "The Conjuring", "img": "the-conjuring.jfif", "desc": "Paranormal investigators tackle a dark presence in a family home." },
-    { "title": "Hereditary", "img": "hereditary.jfif", "desc": "A family uncovers terrifying secrets after their grandmother’s death." },
-    { "title": "It", "img": "it.jfif", "desc": "A group of kids faces off against an ancient evil clown." },
-    { "title": "A Nightmare on Elm Street", "img": "a-nightmare-on-elm-street.jfif", "desc": "Teens are terrorized in their dreams by Freddy Krueger." },
-    { "title": "The Exorcist", "img": "the-exorcist.jfif", "desc": "A young girl is possessed, and priests attempt to save her." },
-    { "title": "Get Out", "img": "get-out.jfif", "desc": "A young man uncovers disturbing secrets about his girlfriend’s family." },
-    { "title": "Midsommar", "img": "midsommar.jfif", "desc": "A midsummer festival in Sweden turns into a nightmare." }
+    { "title": "The Conjuring", "img": "images/the-conjuring.jfif", "desc": "Paranormal investigators tackle a dark presence in a family home." },
+    { "title": "Hereditary", "img": "images/hereditary.jfif", "desc": "A family uncovers terrifying secrets after their grandmother’s death." },
+    { "title": "It", "img": "images/it.jfif", "desc": "A group of kids faces off against an ancient evil clown." },
+    { "title": "A Nightmare on Elm Street", "img": "images/a-nightmare-on-elm-street.jfif", "desc": "Teens are terrorized in their dreams by Freddy Krueger." },
+    { "title": "The Exorcist", "img": "images/the-exorcist.jfif", "desc": "A young girl is possessed, and priests attempt to save her." },
+    { "title": "Get Out", "img": "images/get-out.jfif", "desc": "A young man uncovers disturbing secrets about his girlfriend’s family." },
+    { "title": "Midsommar", "img": "images/midsommar.jfif", "desc": "A midsummer festival in Sweden turns into a nightmare." }
   ],
   "action": [
-    { "title": "John Wick", "img": "john-wick.jfif", "desc": "A retired hitman seeks vengeance against those who wronged him." },
-    { "title": "Mad Max: Fury Road", "img": "mad-max-fury-road.jfif", "desc": "In a post-apocalyptic wasteland, survival means speed and firepower." },
-    { "title": "Die Hard", "img": "die-hard.jfif", "desc": "A cop fights terrorists in a Los Angeles skyscraper." },
-    { "title": "The Dark Knight", "img": "the-dark-knight.jfif", "desc": "Batman faces his deadliest foe yet: the Joker." },
-    { "title": "Avengers: Endgame", "img": "avengers-endgame.jfif", "desc": "The Avengers assemble for one last battle to save the universe." },
-    { "title": "Gladiator", "img": "gladiator.jfif", "desc": "A betrayed Roman general seeks revenge as a gladiator." },
-    { "title": "The Matrix", "img": "the-matrix.jfif", "desc": "A computer hacker learns about the true nature of reality." }
+    { "title": "John Wick", "img": "images/john-wick.jfif", "desc": "A retired hitman seeks vengeance against those who wronged him." },
+    { "title": "Mad Max: Fury Road", "img": "images/mad-max-fury-road.jfif", "desc": "In a post-apocalyptic wasteland, survival means speed and firepower." },
+    { "title": "Die Hard", "img": "images/die-hard.jfif", "desc": "A cop fights terrorists in a Los Angeles skyscraper." },
+    { "title": "The Dark Knight", "img": "images/the-dark-knight.jfif", "desc": "Batman faces his deadliest foe yet: the Joker." },
+    { "title": "Avengers: Endgame", "img": "images/avengers-endgame.jfif", "desc": "The Avengers assemble for one last battle to save the universe." },
+    { "title": "Gladiator", "img": "images/gladiator.jfif", "desc": "A betrayed Roman general seeks revenge as a gladiator." },
+    { "title": "The Matrix", "img": "images/the-matrix.jfif", "desc": "A computer hacker learns about the true nature of reality." }
   ],
   "adventure": [
-    { "title": "Indiana Jones", "img": "indiana-jones.jfif", "desc": "The legendary archaeologist goes on dangerous quests for treasures." },
-    { "title": "Jurassic Park", "img": "jurassic-park.jfif", "desc": "A dinosaur theme park spirals into chaos after a system failure." },
-    { "title": "The Revenant", "img": "the-revenant.jfif", "desc": "A frontiersman seeks revenge after being left for dead." },
-    { "title": "Jumanji: Welcome to the Jungle", "img": "jumanji-welcome-to-the-jungle.jfif", "desc": "Four teens are sucked into a magical video game adventure." },
-    { "title": "Pirates of the Caribbean", "img": "pirates-of-the-caribbean.jfif", "desc": "Captain Jack Sparrow sails into wild adventures." },
-    { "title": "The Hobbit", "img": "the-hobbit.jfif", "desc": "Bilbo Baggins embarks on an epic journey with dwarves." },
-    { "title": "The Lord of the Rings", "img": "the-lord-of-the-rings.jfif", "desc": "The Fellowship sets out to destroy the One Ring." }
+    { "title": "Indiana Jones", "img": "images/indiana-jones.jfif", "desc": "The legendary archaeologist goes on dangerous quests for treasures." },
+    { "title": "Jurassic Park", "img": "images/jurassic-park.jfif", "desc": "A dinosaur theme park spirals into chaos after a system failure." },
+    { "title": "The Revenant", "img": "images/the-revenant.jfif", "desc": "A frontiersman seeks revenge after being left for dead." },
+    { "title": "Jumanji: Welcome to the Jungle", "img": "images/jumanji-welcome-to-the-jungle.jfif", "desc": "Four teens are sucked into a magical video game adventure." },
+    { "title": "Pirates of the Caribbean", "img": "images/pirates-of-the-caribbean.jfif", "desc": "Captain Jack Sparrow sails into wild adventures." },
+    { "title": "The Hobbit", "img": "images/the-hobbit.jfif", "desc": "Bilbo Baggins embarks on an epic journey with dwarves." },
+    { "title": "The Lord of the Rings", "img": "images/the-lord-of-the-rings.jfif", "desc": "The Fellowship sets out to destroy the One Ring." }
   ],
   "romantic": [
-    { "title": "The Notebook", "img": "the-notebook.jfif", "desc": "A timeless love story spanning decades." },
-    { "title": "Titanic", "img": "titanic.jfif", "desc": "Two lovers meet aboard the doomed Titanic voyage." },
-    { "title": "Pride and Prejudice", "img": "pride-and-prejudice.jfif", "desc": "Elizabeth Bennet navigates love and society in 19th-century England." },
-    { "title": "Crazy Rich Asians", "img": "crazy-rich-asians.jfif", "desc": "A woman discovers her boyfriend is from one of Asia’s richest families." },
-    { "title": "500 Days of Summer", "img": "500-days-of-summer.jfif", "desc": "A young man reflects on his failed relationship." },
-    { "title": "Before Sunrise", "img": "before-sunrise.jfif", "desc": "Two strangers meet on a train and spend one magical night together." },
-    { "title": "A Star is Born", "img": "a-star-is-born.jfif", "desc": "A seasoned musician falls for a rising singer." }
+    { "title": "The Notebook", "img": "images/the-notebook.jfif", "desc": "A timeless love story spanning decades." },
+    { "title": "Titanic", "img": "images/titanic.jfif", "desc": "Two lovers meet aboard the doomed Titanic voyage." },
+    { "title": "Pride and Prejudice", "img": "images/pride-and-prejudice.jfif", "desc": "Elizabeth Bennet navigates love and society in 19th-century England." },
+    { "title": "Crazy Rich Asians", "img": "images/crazy-rich-asians.jfif", "desc": "A woman discovers her boyfriend is from one of Asia’s richest families." },
+    { "title": "500 Days of Summer", "img": "images/500-days-of-summer.jfif", "desc": "A young man reflects on his failed relationship." },
+    { "title": "Before Sunrise", "img": "images/before-sunrise.jfif", "desc": "Two strangers meet on a train and spend one magical night together." },
+    { "title": "A Star is Born", "img": "images/a-star-is-born.jfif", "desc": "A seasoned musician falls for a rising singer." }
   ]
 }
