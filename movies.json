@@ -1,0 +1,30 @@
+{
+  "happy": [
+    { "title": "The Pursuit of Happyness", "img": "https://m.media-amazon.com/images/I/51sBr4IWDwL.jpg", "desc": "A struggling father does everything to give his son a better life." },
+    { "title": "La La Land", "img": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SL1500_.jpg", "desc": "A love story between a musician and an aspiring actress in Los Angeles." }
+  ],
+  "funny": [
+    { "title": "The Hangover", "img": "https://m.media-amazon.com/images/I/81s6DUyQCZL._AC_SY679_.jpg", "desc": "A wild bachelor party in Las Vegas goes terribly wrong." },
+    { "title": "Superbad", "img": "https://m.media-amazon.com/images/I/81c7i4GslXL._AC_SY679_.jpg", "desc": "Two high school friends go on a hilarious adventure before college." }
+  ],
+  "horror": [
+    { "title": "The Conjuring", "img": "https://m.media-amazon.com/images/I/81F5Dmd-8zL._AC_SL1500_.jpg", "desc": "Paranormal investigators tackle a dark presence in a family home." },
+    { "title": "Hereditary", "img": "https://m.media-amazon.com/images/I/81xjBR7Y2JL._AC_SY679_.jpg", "desc": "A family uncovers terrifying secrets after their grandmother’s death." }
+  ],
+  "action": [
+    { "title": "John Wick", "img": "https://m.media-amazon.com/images/I/71MlcO29Q-L._AC_SY679_.jpg", "desc": "A retired hitman seeks vengeance against those who wronged him." },
+    { "title": "Mad Max: Fury Road", "img": "https://m.media-amazon.com/images/I/91D4W8w4s-L._AC_SL1500_.jpg", "desc": "In a post-apocalyptic wasteland, survival means speed and firepower." }
+  ],
+  "adventure": [
+    { "title": "Indiana Jones", "img": "https://m.media-amazon.com/images/I/71aCsxwP7sL._AC_SY679_.jpg", "desc": "The legendary archaeologist goes on dangerous quests for treasures." },
+    { "title": "Jurassic Park", "img": "https://m.media-amazon.com/images/I/91svw2JvYML._AC_SY679_.jpg", "desc": "A dinosaur theme park spirals into chaos after a system failure." }
+  ],
+  "romantic": [
+    { "title": "The Notebook", "img": "https://m.media-amazon.com/images/I/91z3kZU9HXL._AC_SY679_.jpg", "desc": "A timeless love story spanning decades." },
+    { "title": "Titanic", "img": "https://m.media-amazon.com/images/I/91D1R7bBNwL._AC_SY679_.jpg", "desc": "Two lovers meet aboard the doomed Titanic voyage." }
+  ],
+  "sad": [
+    { "title": "Hachi: A Dog’s Tale", "img": "https://m.media-amazon.com/images/I/81rftN8BHzL._AC_SY679_.jpg", "desc": "A dog’s loyalty transcends life and death." },
+    { "title": "Marley & Me", "img": "https://m.media-amazon.com/images/I/81XWk1kJQhL._AC_SY679_.jpg", "desc": "The story of a mischievous dog and his loving family." }
+  ]
+}

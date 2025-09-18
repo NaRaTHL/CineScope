@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Recommendation</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🎬 Movie Recommendation System</h1>
+
+  <div class="mood-selector">
+    <label><input type="checkbox" value="happy"> Happy</label>
+    <label><input type="checkbox" value="funny"> Funny</label>
+    <label><input type="checkbox" value="horror"> Horror</label>
+    <label><input type="checkbox" value="action"> Action</label>
+    <label><input type="checkbox" value="adventure"> Adventure</label>
+    <label><input type="checkbox" value="romantic"> Romantic</label>
+    <label><input type="checkbox" value="sad"> Sad</label>
+  </div>
+
+  <button onclick="recommendMovies()">Get Recommendations</button>
+
+  <div class="results" id="results">
+    <h2>Recommended Movies</h2>
+    <div id="movieList"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
