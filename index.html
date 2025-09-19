@@ -7,47 +7,34 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- ID and Name -->
+  <div class="top-bar">
+    <div class="id">240702404075</div>
+    <div class="name">Sai Thet Htut Lin</div>
+  </div>
+
   <!-- Header -->
   <header>
     <h1>CineScope</h1>
     <p class="slogan">Find the perfect movie for your mood</p>
   </header>
 
-  <!-- Quiz Section -->
-  <div id="quiz">
-    <h2>🎬 Mood Quiz</h2>
-
-    <div class="question">
-      <p>1. What kind of night do you want?</p>
-      <button onclick="answer('funny')">😂 Laugh</button>
-      <button onclick="answer('action')">🔥 Thrills</button>
-      <button onclick="answer('horror')">👻 Chills</button>
-      <button onclick="answer('sad')">😢 Cry</button>
-    </div>
-
-    <div class="question">
-      <p>2. Which setting sounds fun?</p>
-      <button onclick="answer('adventure')">🗺️ Adventure</button>
-      <button onclick="answer('romantic')">❤️ Romantic</button>
-      <button onclick="answer('happy')">😀 Uplifting</button>
-    </div>
-
-    <div class="question">
-      <p>3. Pick your ideal snack:</p>
-      <button onclick="answer('adventure')">🍿 Popcorn</button>
-      <button onclick="answer('romantic')">🍦 Ice Cream</button>
-      <button onclick="answer('funny')">🍕 Pizza</button>
-      <button onclick="answer('horror')">🥤 Blanket Mode</button>
-    </div>
-
-    <button onclick="showQuizResults()">See My Movies</button>
+  <!-- Mood Selection -->
+  <div class="mood-selector">
+    <label><input type="checkbox" value="happy"> Happy</label>
+    <label><input type="checkbox" value="funny"> Funny</label>
+    <label><input type="checkbox" value="horror"> Horror</label>
+    <label><input type="checkbox" value="action"> Action</label>
+    <label><input type="checkbox" value="adventure"> Adventure</label>
+    <label><input type="checkbox" value="romantic"> Romantic</label>
   </div>
 
-  <!-- Results Section (hidden initially) -->
-  <div class="results" id="results" style="display: none;">
+  <button onclick="recommendMovies()">Get Recommendations</button>
+
+  <!-- Results -->
+  <div class="results" id="results">
     <h2>Recommended Movies</h2>
     <div id="movieList"></div>
-    <button onclick="restartQuiz()">🔄 Try Again</button>
   </div>
 
   <!-- Footer -->

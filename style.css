@@ -152,12 +152,6 @@ footer a:hover {
   text-decoration: underline;
 }
 
-#quiz, #results {
-  max-width: 800px;
-  margin: auto;
-  padding: 20px;
-}
-
 .question {
   margin: 20px 0;
 }
@@ -186,4 +180,3 @@ footer a:hover {
   color: #e11d48;
   font-weight: bold;
 }
-
